@@ -1,5 +1,6 @@
 # Calculadora em Python
 
+Atividade 1 do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT) da Data Science Academy
 Um simples programa de calculadora em Python que permite realizar operações básicas de matemática.
 
 ## Funcionalidades
